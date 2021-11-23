@@ -8,10 +8,9 @@
 - [Craigslist](https://www.kaggle.com/austinreese/craigslist-carstrucks-data) is the world's largest collection of used vehicles for sale,  dataset which includes every used vehicle entry within the United States on Craigslist. it contains most all relevant information that provides on car sales including columns like price, condition, manufacturer, latitude/longitude, and 18 other categories.
 
 
-## Questions/Needs:
-- m
-- m
-
+## Problem statement:
+- Knowing the sale price of the used cars is important for the sallers and buyers, whenever the price of the used car accrued price increased the proportion of salling used cars.
+  Therefore, this project will suggest a machine Learning regression model that predicts the accrued price to sale the used car. 
 ## Tools:
 ### Technologies:
 - Python
@@ -21,3 +20,5 @@
 - Matplotlib
 - NumPy
 - Pandas
+- sklearn
+- statsmodels
