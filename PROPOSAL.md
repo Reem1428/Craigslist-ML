@@ -3,7 +3,10 @@
 
 ## Used Cars Dataset
 ## introduction:
-- mm
+- Craigslist is an American classified advertisements website with sections devoted to jobs, housing, for sale, items wanted, services, community service, gigs, résumés, and discussion forums.
+
+- [Craigslist](https://www.kaggle.com/austinreese/craigslist-carstrucks-data) is the world's largest collection of used vehicles for sale,  dataset which includes every used vehicle entry within the United States on Craigslist. it contains most all relevant information that provides on car sales including columns like price, condition, manufacturer, latitude/longitude, and 18 other categories.
+
 
 ## Questions/Needs:
 - m
